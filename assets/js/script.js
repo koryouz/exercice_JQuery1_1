@@ -1,1 +1,3 @@
-$( "#text" ).hide();
+$(document).ready(function(){
+  $('#text').hide();
+)}
