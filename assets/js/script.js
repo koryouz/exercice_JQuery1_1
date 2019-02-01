@@ -1,3 +1,5 @@
 $(document).ready(function(){
-  $('#text').hide();
-)}
+  $("#clickMe").click(function(){
+    alert("The button was clicked.");
+  });
+});
